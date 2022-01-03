@@ -9,4 +9,4 @@ data:
     - name: default
       protocol: layer2
       addresses:
-      - 192.168.1.20-192.168.1.35  # < example ip range you reserve for MetalLB
+      - 10.0.100.151-10.0.100.167  # < example ip range you reserve for MetalLB
